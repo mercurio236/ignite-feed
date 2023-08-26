@@ -16,7 +16,7 @@ export function Sidebar() {
           src="https://avatars.githubusercontent.com/u/32252053?v=4"
         />
         <strong>Arley Souto</strong>
-        <span>Enginer Software</span>
+        <span>Software Enginer</span>
       </div>
       <footer>
         <a href="#">
