@@ -1,3 +1,5 @@
+
+/* variaveis globais para ser usado em tudos os arquivos css criados */
 :root {
   --white: #fff;
   --gray-100: #e1e1e6;
@@ -12,6 +14,13 @@
   --green-500: #00875f;
 }
 
+/* aqui serve para deixar o focus (as bordas dos campos) na cor verde */
+:focus{
+  outline: transparent !important;
+  box-shadow: 0 0 0 2px var(--green-500);
+}
+
+/* estilização padrão de todo o site */
 * {
   margin: 0;
   padding: 0;
